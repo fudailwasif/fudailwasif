@@ -1,130 +1,101 @@
-
-<!-- ═══════════════ HEADER ═══════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102D36,100:00FFCC&height=175&section=header&animation=fadeIn" width="100%" alt="Animated header" />
+<img width="100%" alt="Ice blue gradient header" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D17,50:17344E,100:79D8FF&height=145&section=header&animation=fadeIn" />
 
-<br/>
+<img alt="Typing introduction" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=79D8FF&center=true&vCenter=true&width=650&height=60&lines=Hey%2C+I'm+Fudail+Wasif;Frontend+Web+Developer;I+build+things+for+the+web." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=00FFCC&center=true&vCenter=true&width=620&height=70&lines=Hey%2C+I'm+Fudail+Wasif;Frontend+Web+Developer;I+build+things+for+the+web." alt="Animated introduction" />
+<br />
 
-<br/>
+<img alt="Animated tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1100&color=B8CCE0&center=true&vCenter=true&width=600&height=30&lines=Clean+interfaces.+Thoughtful+code.;React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Build.+Break.+Understand.+Improve." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=9CA3AF&center=true&vCenter=true&width=620&height=35&lines=React+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Clean+interfaces.+Thoughtful+code.;Learning.+Building.+Improving." alt="Developer tagline" />
-
-<br/><br/>
-
-<a href="https://fudail-portfolio-mauve.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-07141B?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://github.com/fvyalwayshigh-sys">
-  <img src="https://img.shields.io/badge/GitHub-07141B?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=fvyalwayshigh-sys&style=flat-square&color=00bfa6&label=PROFILE+VIEWS" alt="Profile Views" />
+<p>
+  <a href="https://fudail-portfolio-mauve.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=79D8FF" /></a>
+  <a href="https://github.com/fvyalwayshigh-sys"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=79D8FF" /></a>
+  <a href="https://www.linkedin.com/in/fudailwasif/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=79D8FF" /></a>
+</p>
 
 </div>
 
-<br/>
+## ✦ About Me
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
+I'm **Fudail Wasif**, a frontend web developer based in Karachi, Pakistan. I build responsive, accessible, and visually considered web experiences with a focus on understanding how things work—not just making them look good.
 
-<h2 align="left">✦ &nbsp; About Me</h2>
+I enjoy turning ideas into usable applications, experimenting with frontend architecture, and solving the small logic problems that make a product feel polished.
 
-I'm **Fudail Wasif**, a frontend web developer passionate about creating modern, responsive, and thoughtfully designed web experiences.
+- **Currently building:** React projects with JavaScript and Tailwind CSS
+- **Currently learning:** TypeScript, API integration, and stronger software engineering fundamentals
+- **Interested in:** UI engineering, open-source projects, and financial technology
+- **My approach:** *Build. Break. Understand. Improve.*
 
-I enjoy transforming ideas into functional applications, experimenting with new technologies, and understanding the logic behind what I build.
+## ✦ Tech Stack
 
-My focus is on writing clean, maintainable code while continuously strengthening my foundation in software engineering.
-
-- ◈ Currently building with **React, JavaScript & Tailwind CSS**
-- ◈ Learning **TypeScript, REST APIs & frontend architecture**
-- ◈ Interested in **UI/UX, open source & modern web technologies**
-- ◈ Exploring the intersection of **software engineering & financial markets**
-- ◈ Philosophy: **Build. Break. Understand. Improve.**
-
-<br/>
-
-<!-- ═══════════════ STACK ═══════════════ -->
-
-<h2>✦ &nbsp; Tech Stack</h2>
-
-<h4>Languages</h4>
+**Languages**
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript (learning)" src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-<h4>Libraries & Frameworks</h4>
+**Frameworks & Libraries**
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-<h4>Developer Tools & Deployment</h4>
+**Tools & Platforms**
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<br/>
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-
-<h2>✦ &nbsp; Selected Projects</h2>
+## ✦ Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Atlas
+**Atlas — Job Application Manager**
 
-A job application management dashboard featuring reusable React components, application tracking, and interactive interfaces.
+A React dashboard for organizing job applications, built with reusable components, routing, and interactive forms.
 
 `React` `Vite` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
 
-### GitHub Profile Fetcher
+**GitHub Profile Fetcher**
 
-A frontend application that fetches and displays GitHub user profiles and repository data using REST APIs.
+A profile explorer powered by the GitHub REST API, with user information and repository data.
 
 `React` `JavaScript` `REST API`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### Rick Owens Recreation
+**Rick Owens — Frontend Recreation**
 
-A responsive frontend recreation of a fashion e-commerce experience, featuring dynamic pages and navigation.
+A responsive fashion-store interface with dynamic pages and interactive navigation.
 
 `React` `Tailwind CSS`
 
-[Live Demo](https://rick-owens-frontend-recreation.vercel.app/home)
+[Live demo](https://rick-owens-frontend-recreation.vercel.app/home)
 
 </td>
 <td width="50%" valign="top">
 
-### Expense Tracker
+**Expense Tracker**
 
-A JavaScript application for tracking income and expenses with category filters, balance calculations, and persistent local storage.
+A vanilla JavaScript tracker with income/expense totals, category filters, and local storage.
 
 `HTML` `CSS` `JavaScript`
 
@@ -132,78 +103,48 @@ A JavaScript application for tracking income and expenses with category filters,
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-
-<h2>✦ &nbsp; GitHub Analytics</h2>
+## ✦ GitHub Overview
 
 <div align="center">
 
-<a href="https://github.com/fvyalwayshigh-sys">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fvyalwayshigh-sys&show_icons=true&hide_border=true&bg_color=050816&title_color=00FFCC&text_color=C9D1D9&icon_color=FF007F&rank_icon=github" alt="GitHub Statistics" />
-</a>
-&nbsp;
-<a href="https://github.com/fvyalwayshigh-sys">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvyalwayshigh-sys&layout=compact&hide_border=true&bg_color=050816&title_color=00FFCC&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-</a>
+<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=fvyalwayshigh-sys&show_icons=true&hide_border=true&bg_color=080D17&title_color=79D8FF&text_color=B8CCE0&icon_color=79D8FF&rank_icon=github" />
+<img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvyalwayshigh-sys&layout=compact&langs_count=6&hide_border=true&bg_color=080D17&title_color=79D8FF&text_color=B8CCE0" />
 
-<br/><br/>
+<br />
 
-<img src="https://streak-stats.demolab.com?user=fvyalwayshigh-sys&hide_border=true&background=050816&ring=00FFCC&fire=FF007F&currStreakLabel=00FFCC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="GitHub Contribution Streak" />
+<img alt="Contribution streak" width="72%" src="https://streak-stats.demolab.com?user=fvyalwayshigh-sys&hide_border=true&background=080D17&ring=79D8FF&fire=79D8FF&currStreakLabel=79D8FF&sideLabels=B8CCE0&dates=8195AC&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
-<br/>
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-
-<h2>✦ &nbsp; Recent Activity</h2>
+## ✦ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<sub>Recent public GitHub activity will appear here after the activity workflow is configured.</sub>
+<sub>This section updates after the optional GitHub Actions workflow runs. It tracks supported public events such as issues, pull requests, comments, and releases—not ordinary pushes.</sub>
 
-<br/>
-
-<!-- ═══════════════ QUOTE ═══════════════ -->
-
-<h2>✦ &nbsp; A Little Inspiration</h2>
+## ✦ A Little Inspiration
 
 <div align="center">
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming&animation=grow_out_in" width="80%" alt="Dynamic programming quote" />
+<img width="75%" alt="Programming quote" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming&animation=grow_out_in" />
 
 </div>
 
-<br/>
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-
-<h2>✦ &nbsp; Connect With Me</h2>
+## ✦ Let's Connect
 
 <div align="center">
 
+*Always learning, always building. Open to connecting with developers and collaborating on thoughtful projects.*
+
 <p>
-Open to connecting with fellow developers, collaborating on interesting ideas,
-and exploring opportunities to build something meaningful.
+  <a href="https://www.linkedin.com/in/fudailwasif/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=79D8FF" /></a>
+  <a href="https://fudail-portfolio-mauve.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=79D8FF" /></a>
+  <a href="https://github.com/fvyalwayshigh-sys"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=79D8FF" /></a>
 </p>
 
-<a href="https://github.com/fvyalwayshigh-sys">
-<img src="https://img.shields.io/badge/GITHUB-07141B?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://fudail-portfolio-mauve.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-07141B?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="Portfolio" />
-</a>
+<img alt="Animated farewell" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1400&color=79D8FF&center=true&vCenter=true&width=470&height=35&lines=Thanks+for+visiting!;See+you+in+the+next+commit." />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1500&color=00FFCC&center=true&vCenter=true&width=520&height=40&lines=Thanks+for+stopping+by!;Keep+building.+Keep+learning.;See+you+in+the+next+commit." alt="Animated footer message" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFCC,50:102D36,100:050816&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer wave" />
+<img alt="Footer wave" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:79D8FF,50:17344E,100:080D17&height=105&section=footer&animation=fadeIn" />
 
 </div>
