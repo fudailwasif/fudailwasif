@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://fudail-portfolio-mauve.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=79D8FF" /></a>
-  <a href="https://github.com/fvyalwayshigh-sys"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=79D8FF" /></a>
+  <a href="https://github.com/fudailwasif"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=79D8FF" /></a>
   <a href="https://www.linkedin.com/in/fudailwasif/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=79D8FF" /></a>
 </p>
 
@@ -107,12 +107,12 @@ A vanilla JavaScript tracker with income/expense totals, category filters, and l
 
 <div align="center">
 
-<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=fvyalwayshigh-sys&show_icons=true&hide_border=true&bg_color=080D17&title_color=79D8FF&text_color=B8CCE0&icon_color=79D8FF&rank_icon=github" />
-<img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvyalwayshigh-sys&layout=compact&langs_count=6&hide_border=true&bg_color=080D17&title_color=79D8FF&text_color=B8CCE0" />
+<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=fudailwasif&show_icons=true&hide_border=true&bg_color=080D17&title_color=79D8FF&text_color=B8CCE0&icon_color=79D8FF&rank_icon=github" />
+<img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fudailwasif&layout=compact&langs_count=6&hide_border=true&bg_color=080D17&title_color=79D8FF&text_color=B8CCE0" />
 
 <br />
 
-<img alt="Contribution streak" width="72%" src="https://streak-stats.demolab.com?user=fvyalwayshigh-sys&hide_border=true&background=080D17&ring=79D8FF&fire=79D8FF&currStreakLabel=79D8FF&sideLabels=B8CCE0&dates=8195AC&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img alt="Contribution streak" width="72%" src="https://streak-stats.demolab.com?user=fudailwasif&hide_border=true&background=080D17&ring=79D8FF&fire=79D8FF&currStreakLabel=79D8FF&sideLabels=B8CCE0&dates=8195AC&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -140,7 +140,7 @@ A vanilla JavaScript tracker with income/expense totals, category filters, and l
 <p>
   <a href="https://www.linkedin.com/in/fudailwasif/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=79D8FF" /></a>
   <a href="https://fudail-portfolio-mauve.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=79D8FF" /></a>
-  <a href="https://github.com/fvyalwayshigh-sys"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=79D8FF" /></a>
+  <a href="https://github.com/fudailwasif"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=79D8FF" /></a>
 </p>
 
 <img alt="Animated farewell" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1400&color=79D8FF&center=true&vCenter=true&width=470&height=35&lines=Thanks+for+visiting!;See+you+in+the+next+commit." />
