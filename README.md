@@ -94,7 +94,7 @@ I enjoy turning ideas into usable applications, experimenting with frontend arch
       <p>
         <code>React</code> <code>GSAP</code> <code>Tailwind CSS</code> <code>Motion</code>
       </p>
-      <a href="https://fudail-portfolio-mauve.vercel.app/">Live Website</a> ·
+      <a href="https://fudailwasif.vercel.app/">Live Website</a> ·
       <a href="https://github.com/fudailwasif/Fudail-Portfolio">Source Code</a>
     </td>
   </tr>
