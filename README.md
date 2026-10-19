@@ -59,48 +59,45 @@ I enjoy turning ideas into usable applications, experimenting with frontend arch
 ## ✦ Selected Work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**Atlas — Job Application Manager**
-
-A React dashboard for organizing job applications, built with reusable components, routing, and interactive forms.
-
-`React` `Vite` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-**GitHub Profile Fetcher**
-
-A profile explorer powered by the GitHub REST API, with user information and repository data.
-
-`React` `JavaScript` `REST API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Rick Owens — Frontend Recreation**
-
-A responsive fashion-store interface with dynamic pages and interactive navigation.
-
-`React` `Tailwind CSS`
-
-[Live demo](https://rick-owens-frontend-recreation.vercel.app/home)
-
-</td>
-<td width="50%" valign="top">
-
-**Expense Tracker**
-
-A vanilla JavaScript tracker with income/expense totals, category filters, and local storage.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Atlas — Job Application Manager</strong>
+      <p>A React dashboard for organizing job applications, featuring reusable components, interactive forms, and application status management.</p>
+      <p>
+        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code>
+      </p>
+      <p><strong>🚧 Coming Soon</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>GitScout — GitHub Profile Explorer</strong>
+      <p>A GitHub profile and repository explorer powered by the GitHub REST API, featuring asynchronous requests, cancellation, and loading/error states.</p>
+      <p>
+        <code>React</code> <code>JavaScript</code> <code>REST API</code>
+      </p>
+      <a href="https://gitscout-nu.vercel.app/">Live Demo</a> ·
+      <a href="https://github.com/fudailwasif/GitScout">Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Rick Owens — Frontend Recreation</strong>
+      <p>An unofficial fashion storefront recreation featuring responsive layouts, routed collections, and persistent cart and wishlist interactions.</p>
+      <p>
+        <code>React</code> <code>Tailwind CSS</code> <code>React Router</code>
+      </p>
+      <a href="https://rick-owens-frontend-recreation.vercel.app/home">Live Demo</a> ·
+      <a href="https://github.com/fudailwasif/RickOwens-Frontend-Recreation">Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Personal Developer Portfolio</strong>
+      <p>A monochromatic, editorial portfolio featuring smooth scrolling, GSAP animations, a custom cursor, responsive layouts, and interactive video project previews.</p>
+      <p>
+        <code>React</code> <code>GSAP</code> <code>Tailwind CSS</code> <code>Motion</code>
+      </p>
+      <a href="https://fudail-portfolio-mauve.vercel.app/">Live Website</a> ·
+      <a href="https://github.com/fudailwasif/Fudail-Portfolio">Source Code</a>
+    </td>
+  </tr>
 </table>
 
 ## ✦ GitHub Overview
